@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Server</OriginalElement>
+  <nodes>
+    <node x="15.0" y="79.0">Server.Server</node>
+    <node x="0.0" y="0.0">Server.Connection</node>
+    <node x="0.0" y="153.0">Server.DisabledClient</node>
+    <node x="169.0" y="153.0">Server.Client</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Server.Server" target="Server.Connection">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="238.0" y="180.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
